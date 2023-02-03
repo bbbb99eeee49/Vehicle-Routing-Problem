@@ -1,0 +1,53 @@
+D:\BulentSiyah\Downloads\Tor\genetik\GeneticAlgorithm\GeneticAlgorithm\bin\Debug\GeneticAlgorithm.exe.config
+D:\BulentSiyah\Downloads\Tor\genetik\GeneticAlgorithm\GeneticAlgorithm\bin\Debug\GeneticAlgorithm.exe
+D:\BulentSiyah\Downloads\Tor\genetik\GeneticAlgorithm\GeneticAlgorithm\bin\Debug\GeneticAlgorithm.pdb
+D:\BulentSiyah\Downloads\Tor\genetik\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.csprojResolveAssemblyReference.cache
+D:\BulentSiyah\Downloads\Tor\genetik\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.Form1.resources
+D:\BulentSiyah\Downloads\Tor\genetik\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.Properties.Resources.resources
+D:\BulentSiyah\Downloads\Tor\genetik\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.csproj.GenerateResource.Cache
+D:\BulentSiyah\Downloads\Tor\genetik\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.exe
+D:\BulentSiyah\Downloads\Tor\genetik\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.pdb
+C:\Users\Barıs UYAR\Desktop\Vehicle-Routing-Problem-with-Genetic-Algorithm-master\GeneticAlgorithm\bin\Debug\GeneticAlgorithm.exe.config
+C:\Users\Barıs UYAR\Desktop\Vehicle-Routing-Problem-with-Genetic-Algorithm-master\GeneticAlgorithm\bin\Debug\GeneticAlgorithm.exe
+C:\Users\Barıs UYAR\Desktop\Vehicle-Routing-Problem-with-Genetic-Algorithm-master\GeneticAlgorithm\bin\Debug\GeneticAlgorithm.pdb
+C:\Users\Barıs UYAR\Desktop\Vehicle-Routing-Problem-with-Genetic-Algorithm-master\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.csproj.AssemblyReference.cache
+C:\Users\Barıs UYAR\Desktop\Vehicle-Routing-Problem-with-Genetic-Algorithm-master\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.csproj.SuggestedBindingRedirects.cache
+C:\Users\Barıs UYAR\Desktop\Vehicle-Routing-Problem-with-Genetic-Algorithm-master\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.Form1.resources
+C:\Users\Barıs UYAR\Desktop\Vehicle-Routing-Problem-with-Genetic-Algorithm-master\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.Properties.Resources.resources
+C:\Users\Barıs UYAR\Desktop\Vehicle-Routing-Problem-with-Genetic-Algorithm-master\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.csproj.GenerateResource.cache
+C:\Users\Barıs UYAR\Desktop\Vehicle-Routing-Problem-with-Genetic-Algorithm-master\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\Barıs UYAR\Desktop\Vehicle-Routing-Problem-with-Genetic-Algorithm-master\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.exe
+C:\Users\Barıs UYAR\Desktop\Vehicle-Routing-Problem-with-Genetic-Algorithm-master\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.pdb
+C:\Users\Barıs UYAR\Desktop\ELEKTRİK ELEKTRONİK MÜH\YAPAY ZEKA\190204053-Barış UYAR-Araç Güzergahı Problemi\GeneticAlgorithm\bin\Debug\GeneticAlgorithm.exe.config
+C:\Users\Barıs UYAR\Desktop\ELEKTRİK ELEKTRONİK MÜH\YAPAY ZEKA\190204053-Barış UYAR-Araç Güzergahı Problemi\GeneticAlgorithm\bin\Debug\GeneticAlgorithm.exe
+C:\Users\Barıs UYAR\Desktop\ELEKTRİK ELEKTRONİK MÜH\YAPAY ZEKA\190204053-Barış UYAR-Araç Güzergahı Problemi\GeneticAlgorithm\bin\Debug\GeneticAlgorithm.pdb
+C:\Users\Barıs UYAR\Desktop\ELEKTRİK ELEKTRONİK MÜH\YAPAY ZEKA\190204053-Barış UYAR-Araç Güzergahı Problemi\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.csproj.AssemblyReference.cache
+C:\Users\Barıs UYAR\Desktop\ELEKTRİK ELEKTRONİK MÜH\YAPAY ZEKA\190204053-Barış UYAR-Araç Güzergahı Problemi\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.csproj.SuggestedBindingRedirects.cache
+C:\Users\Barıs UYAR\Desktop\ELEKTRİK ELEKTRONİK MÜH\YAPAY ZEKA\190204053-Barış UYAR-Araç Güzergahı Problemi\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.Form1.resources
+C:\Users\Barıs UYAR\Desktop\ELEKTRİK ELEKTRONİK MÜH\YAPAY ZEKA\190204053-Barış UYAR-Araç Güzergahı Problemi\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.Properties.Resources.resources
+C:\Users\Barıs UYAR\Desktop\ELEKTRİK ELEKTRONİK MÜH\YAPAY ZEKA\190204053-Barış UYAR-Araç Güzergahı Problemi\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.csproj.GenerateResource.cache
+C:\Users\Barıs UYAR\Desktop\ELEKTRİK ELEKTRONİK MÜH\YAPAY ZEKA\190204053-Barış UYAR-Araç Güzergahı Problemi\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\Barıs UYAR\Desktop\ELEKTRİK ELEKTRONİK MÜH\YAPAY ZEKA\190204053-Barış UYAR-Araç Güzergahı Problemi\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.exe
+C:\Users\Barıs UYAR\Desktop\ELEKTRİK ELEKTRONİK MÜH\YAPAY ZEKA\190204053-Barış UYAR-Araç Güzergahı Problemi\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.pdb
+C:\Users\Barıs UYAR\Desktop\190204053-Barış UYAR-Araç Güzergahı Problemi\GeneticAlgorithm\bin\Debug\GeneticAlgorithm.exe.config
+C:\Users\Barıs UYAR\Desktop\190204053-Barış UYAR-Araç Güzergahı Problemi\GeneticAlgorithm\bin\Debug\GeneticAlgorithm.exe
+C:\Users\Barıs UYAR\Desktop\190204053-Barış UYAR-Araç Güzergahı Problemi\GeneticAlgorithm\bin\Debug\GeneticAlgorithm.pdb
+C:\Users\Barıs UYAR\Desktop\190204053-Barış UYAR-Araç Güzergahı Problemi\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.csproj.AssemblyReference.cache
+C:\Users\Barıs UYAR\Desktop\190204053-Barış UYAR-Araç Güzergahı Problemi\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.csproj.SuggestedBindingRedirects.cache
+C:\Users\Barıs UYAR\Desktop\190204053-Barış UYAR-Araç Güzergahı Problemi\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.Form1.resources
+C:\Users\Barıs UYAR\Desktop\190204053-Barış UYAR-Araç Güzergahı Problemi\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.Properties.Resources.resources
+C:\Users\Barıs UYAR\Desktop\190204053-Barış UYAR-Araç Güzergahı Problemi\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.csproj.GenerateResource.cache
+C:\Users\Barıs UYAR\Desktop\190204053-Barış UYAR-Araç Güzergahı Problemi\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\Barıs UYAR\Desktop\190204053-Barış UYAR-Araç Güzergahı Problemi\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.exe
+C:\Users\Barıs UYAR\Desktop\190204053-Barış UYAR-Araç Güzergahı Problemi\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.pdb
+C:\Users\Barıs UYAR\Desktop\ELEKTRİK ELEKTRONİK MÜH\YAPAY ZEKA\YAPAY ZEKA KODUM\190204053-Barış UYAR-Araç Güzergahı Problemi\GeneticAlgorithm\bin\Debug\GeneticAlgorithm.exe.config
+C:\Users\Barıs UYAR\Desktop\ELEKTRİK ELEKTRONİK MÜH\YAPAY ZEKA\YAPAY ZEKA KODUM\190204053-Barış UYAR-Araç Güzergahı Problemi\GeneticAlgorithm\bin\Debug\GeneticAlgorithm.exe
+C:\Users\Barıs UYAR\Desktop\ELEKTRİK ELEKTRONİK MÜH\YAPAY ZEKA\YAPAY ZEKA KODUM\190204053-Barış UYAR-Araç Güzergahı Problemi\GeneticAlgorithm\bin\Debug\GeneticAlgorithm.pdb
+C:\Users\Barıs UYAR\Desktop\ELEKTRİK ELEKTRONİK MÜH\YAPAY ZEKA\YAPAY ZEKA KODUM\190204053-Barış UYAR-Araç Güzergahı Problemi\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.csproj.AssemblyReference.cache
+C:\Users\Barıs UYAR\Desktop\ELEKTRİK ELEKTRONİK MÜH\YAPAY ZEKA\YAPAY ZEKA KODUM\190204053-Barış UYAR-Araç Güzergahı Problemi\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.csproj.SuggestedBindingRedirects.cache
+C:\Users\Barıs UYAR\Desktop\ELEKTRİK ELEKTRONİK MÜH\YAPAY ZEKA\YAPAY ZEKA KODUM\190204053-Barış UYAR-Araç Güzergahı Problemi\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.Form1.resources
+C:\Users\Barıs UYAR\Desktop\ELEKTRİK ELEKTRONİK MÜH\YAPAY ZEKA\YAPAY ZEKA KODUM\190204053-Barış UYAR-Araç Güzergahı Problemi\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.Properties.Resources.resources
+C:\Users\Barıs UYAR\Desktop\ELEKTRİK ELEKTRONİK MÜH\YAPAY ZEKA\YAPAY ZEKA KODUM\190204053-Barış UYAR-Araç Güzergahı Problemi\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.csproj.GenerateResource.cache
+C:\Users\Barıs UYAR\Desktop\ELEKTRİK ELEKTRONİK MÜH\YAPAY ZEKA\YAPAY ZEKA KODUM\190204053-Barış UYAR-Araç Güzergahı Problemi\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\Barıs UYAR\Desktop\ELEKTRİK ELEKTRONİK MÜH\YAPAY ZEKA\YAPAY ZEKA KODUM\190204053-Barış UYAR-Araç Güzergahı Problemi\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.exe
+C:\Users\Barıs UYAR\Desktop\ELEKTRİK ELEKTRONİK MÜH\YAPAY ZEKA\YAPAY ZEKA KODUM\190204053-Barış UYAR-Araç Güzergahı Problemi\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.pdb
