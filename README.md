@@ -5,3 +5,4 @@ barisssuyaar@gmail.com
 Bana buralardan ulaşabilirsiniz.
 
 
+![Ekran Görüntüsü (59)](https://user-images.githubusercontent.com/76222896/216642642-21620455-664a-4ad9-9cd8-92ac3204e25b.png)
